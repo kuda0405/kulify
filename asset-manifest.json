@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kulify/static/css/main.776fd02c.chunk.css",
+    "main.js": "/kulify/static/js/main.8bd71f4b.chunk.js",
+    "main.js.map": "/kulify/static/js/main.8bd71f4b.chunk.js.map",
+    "runtime-main.js": "/kulify/static/js/runtime-main.d97b63d9.js",
+    "runtime-main.js.map": "/kulify/static/js/runtime-main.d97b63d9.js.map",
+    "static/js/2.9e884017.chunk.js": "/kulify/static/js/2.9e884017.chunk.js",
+    "static/js/2.9e884017.chunk.js.map": "/kulify/static/js/2.9e884017.chunk.js.map",
+    "static/js/3.4b03d7b2.chunk.js": "/kulify/static/js/3.4b03d7b2.chunk.js",
+    "static/js/3.4b03d7b2.chunk.js.map": "/kulify/static/js/3.4b03d7b2.chunk.js.map",
+    "index.html": "/kulify/index.html",
+    "static/css/main.776fd02c.chunk.css.map": "/kulify/static/css/main.776fd02c.chunk.css.map",
+    "static/js/2.9e884017.chunk.js.LICENSE.txt": "/kulify/static/js/2.9e884017.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d97b63d9.js",
+    "static/js/2.9e884017.chunk.js",
+    "static/css/main.776fd02c.chunk.css",
+    "static/js/main.8bd71f4b.chunk.js"
+  ]
+}
